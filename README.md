@@ -1,7 +1,7 @@
 OWA pro
 =======
-for Microsoft Exchange Server
 
+for Microsoft Exchange Server
 
 In case when you don't want or can not use Outlook this extension can help you.
 It checks unread emails in the selected folders and upcoming appointments.
@@ -14,6 +14,10 @@ Features:
  - Multiple folders check
  - Checking Mails and Appointments
  - Rich Desktop notifications
+
+Planned:
+ - Internalization
+ - Dismiss/Snooze events
 
 Links:
  - Setup Video Demo: https://www.youtube.com/watch?v=FqQxZ0tcSJA
