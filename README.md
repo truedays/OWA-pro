@@ -16,7 +16,7 @@ Features:
  - Rich Desktop notifications
 
 Planned:
- - Internalization
+ - Internationalization
  - Dismiss/Snooze events
 
 Links:
