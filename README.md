@@ -9,11 +9,13 @@ Works with Exchange Web Server (EWS)
 
 Features:
  - Secure NTLM Authorization
+ - EWS Autodiscover
  - Smart account setup process
  - Multiple accounts
  - Multiple folders check
  - Checking Mails and Appointments
  - Rich Desktop notifications
+ - Multi-language ( English, Russian )
 
 Planned:
  - Internationalization
